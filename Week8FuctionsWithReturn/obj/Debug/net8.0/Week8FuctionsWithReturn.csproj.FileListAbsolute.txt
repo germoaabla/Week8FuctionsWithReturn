@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\bin\Debug\net8.0\Week8FuctionsWithReturn.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\bin\Debug\net8.0\Week8FuctionsWithReturn.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\bin\Debug\net8.0\Week8FuctionsWithReturn.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\bin\Debug\net8.0\Week8FuctionsWithReturn.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\bin\Debug\net8.0\Week8FuctionsWithReturn.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\refint\Week8FuctionsWithReturn.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\Week8FuctionsWithReturn.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week8FuctionsWithReturn\Week8FuctionsWithReturn\obj\Debug\net8.0\ref\Week8FuctionsWithReturn.dll

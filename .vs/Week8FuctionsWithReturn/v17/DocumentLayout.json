@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week8FuctionsWithReturn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB5A018-1B6D-48B7-BE8E-5E8517C637AF}|Week8FuctionsWithReturn\\Week8FuctionsWithReturn.csproj|c:\\users\\germo\\documents\\tktk\\c#\\source\\repos\\week8fuctionswithreturn\\week8fuctionswithreturn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB5A018-1B6D-48B7-BE8E-5E8517C637AF}|Week8FuctionsWithReturn\\Week8FuctionsWithReturn.csproj|solutionrelative:week8fuctionswithreturn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week8FuctionsWithReturn\\Week8FuctionsWithReturn\\Program.cs",
+              "RelativeDocumentMoniker": "Week8FuctionsWithReturn\\Program.cs",
+              "ToolTip": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week8FuctionsWithReturn\\Week8FuctionsWithReturn\\Program.cs",
+              "RelativeToolTip": "Week8FuctionsWithReturn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:00:26.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
